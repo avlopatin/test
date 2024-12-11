@@ -1,0 +1,13 @@
+{
+  "$schema": "build.schema.json",
+  "Solution": "BuildAsCode.sln",
+
+  "DockerUsername": "alopatin1991",
+  "DockerProjectName": "alopatintest123",
+  "NuGetApiKey": "Secret123",
+  "NuGetFeedName": "local",
+  "NuGetUrl": "http://localhost:5555/v3/index.json",
+  "NuGetSource": "local",
+  "Branch": "main",
+  "BuildCounter": "1"
+}
